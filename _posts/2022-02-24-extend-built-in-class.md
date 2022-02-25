@@ -7,7 +7,8 @@ tags:
   - python
   - quick note
 ---
-Description
+
+Type: List, Dict, Set
 
 ```python
 from __future__ import annotations

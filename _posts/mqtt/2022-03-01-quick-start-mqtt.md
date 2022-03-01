@@ -8,6 +8,8 @@ tags:
   - iot message queue
   - data engineer
 ---
+Something about MQTT
+
 # Quick start with MQTT
 ## Top MQTT server free
 - https://mntolia.com/10-free-public-private-mqtt-brokers-for-testing-prototyping/

@@ -1,3 +1,16 @@
+---
+title: "Quick start with MQTT"
+date: 2022-03-01T10:00:00+07:00
+categories:
+  - blog
+tags:
+  - avro, ORC, parquet, json, protobuf
+  - format file
+  - bigdata
+  - stogare
+  - data engineer
+---
+
 - [*I. Overview*](#i-overview)
 
 - [*I. Overview*](#i-overview)

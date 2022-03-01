@@ -1,5 +1,5 @@
 ---
-title: "Quick start with MQTT"
+title: "Data Storage Formats"
 date: 2022-03-01T10:00:00+07:00
 categories:
   - blog
@@ -7,11 +7,11 @@ tags:
   - avro, ORC, parquet, json, protobuf
   - format file
   - bigdata
-  - stogare
+  - storage
   - data engineer
 ---
+In this introduction, we will have an overview of the pros and cons of several some file formats (Protobuf, Avro, Parquet, ORC). Purpose use with some the ecosystem: Apache Kafka, S3 (Selector, Athena, ... ), Apache Hive, Apache Spark (Python, Scala).
 
-- [*I. Overview*](#i-overview)
 
 - [*I. Overview*](#i-overview)
 - [*II. Pros and cons for some file formats*](#ii-pros-and-cons-for-some-file-formats)

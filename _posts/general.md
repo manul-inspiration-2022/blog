@@ -1,6 +1,10 @@
-### Python's Method Resolution Order (MRO) algorithm
-### lxml 
-### pandas
----
+# Backlogs
+https://trello.com/b/9ZXwHER8/roadmap
 
-### multi inherited and diamond problem: super()
+---
+# TODO:
+
+- Python's Method Resolution Order (MRO) algorithm
+- lxml 
+- pandas
+- multi inherited and diamond problem: super()

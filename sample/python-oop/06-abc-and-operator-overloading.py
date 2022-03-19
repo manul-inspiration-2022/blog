@@ -223,3 +223,16 @@ sd = SimpleDice(6, D6)
 >>> sd.total
 22
 """
+
+
+class Simple():
+    @overload
+    def __init__(self, _integer: int):
+        self.something = str(_integer)
+    
+    @overload
+    def __init__(self, _string: str):
+        self.something = _string
+
+    def __init__(self, key: Any):
+        self.something = key
